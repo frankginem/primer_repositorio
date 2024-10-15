@@ -1,6 +1,6 @@
 REPASO DE TODOS LOS COMANDOS DE GIT
 
-1
+1 git init // comando de git para inicializar mi repositorio
 2
 3
 4
